@@ -28,7 +28,7 @@ qua một tunnel SSH đưa ra một giao diện điều khiển đồ họa đ�
 
 #### 2. Mô hình cài đặt
 
-![img](http://i.imgur.com/z1KEK0r.png "img")
+![img](http://i.imgur.com/7oKIMQe.png "img")
 
 Theo như mô hình này, tôi sẽ dựng 2 node, 1 là WebvirtMgr: node sẽ cài đặt giao diện quản lí web, 2 là Hypervisor-KVM: node này cài KVM, chịu trách nhiệm lưu máy ảo và các image.
 
