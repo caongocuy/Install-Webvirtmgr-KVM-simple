@@ -60,7 +60,8 @@ Sau khi cài đặt xong, vào trình duyệt kiểm tra, đăng nhập bằng u
 ###### b. Hypervisor-KVM
 
 ```
-apt-get install && apt-get update && apt-get dist-upgrade
+apt-get update && apt-get upgrade && apt-get dist-upgrade
+apt-get install -yq qemu-kvm libvirt-bin
 ```
 
 - Thực hiện cấu hình
