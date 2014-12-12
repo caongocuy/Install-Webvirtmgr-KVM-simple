@@ -143,6 +143,7 @@ ovs-vsctl add-port br-ex eth0
 
 <a name="thaotac"></a>
 
+*Chú ý: Bạn nên khởi động lại toàn bộ hệ thống trước khi thao tác*
 #### 4. Thao tác trên Webvirt
 
 - Login
