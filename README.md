@@ -119,7 +119,6 @@ bridge_fd 9
 bridge_hello 2
 bridge_maxage 12
 bridge_stp off
-bridge_ports eth0
 
 auto eth0
 iface eth0 inet manual
