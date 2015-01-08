@@ -44,7 +44,7 @@ Theo như mô hình này, tôi sẽ dựng 2 node, 1 là WebvirtMgr: node sẽ c
 apt-get update && apt-get upgrade && apt-get dist-upgrade
 apt-get install -yq python-pip gcc python-dev git
 git clone https://github.com/retspen/webvirtmgr.git
-webvirtmgr/deploy/fabric
+cd webvirtmgr/deploy/fabric
 pip install -r fab_requirements.txt
 fab -H 127.0.0.1 -u root deploy_webvirt
 ```
