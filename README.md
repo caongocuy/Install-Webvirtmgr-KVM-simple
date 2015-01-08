@@ -41,7 +41,7 @@ Theo như mô hình này, tôi sẽ dựng 2 node, 1 là WebvirtMgr: node sẽ c
 ###### a. WebvirtMgr (Frontend)
 
 ```
-apt-get install && apt-get update && apt-get dist-upgrade
+apt-get update && apt-get upgrade && apt-get dist-upgrade
 apt-get install -yq python-pip gcc python-dev git
 git clone https://github.com/retspen/webvirtmgr.git
 webvirtmgr/deploy/fabric
