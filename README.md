@@ -66,7 +66,7 @@ apt-get install -yq qemu-kvm libvirt-bin
 
 - Thực hiện cấu hình
 
-/etc/libvirt/libvirt.conf
+/etc/libvirt/libvirtd.conf
 
 ```
 listen_tls = 0
