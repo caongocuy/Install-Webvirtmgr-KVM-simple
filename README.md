@@ -141,7 +141,7 @@ ovs-vsctl add-port br-ex eth0
 
 ![img](http://i.imgur.com/zPRQTyw.png "img")
 
-- Cách add user vào hệ thống
+- Cách add user vào hệ thống (lưu ý lúc này chuyển sang node cài web để thao tác)
 ```
 cd /var/www/webvirtmgr
 ./manage.py createsuperuser
