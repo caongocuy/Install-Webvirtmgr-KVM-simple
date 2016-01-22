@@ -108,8 +108,8 @@ apt-get install -y openvswitch-switch openvswitch-datapath-dkms
 - Cấu hình card br-ex
 
 ```
-auto br0
-iface br0 inet static
+auto br-ex
+iface br-ex inet static
 address 172.16.69.125
 netmask 255.255.255.0
 gateway 172.16.69.1
