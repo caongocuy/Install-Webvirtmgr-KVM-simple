@@ -99,7 +99,7 @@ virsh # exit
 #
 ```
 
-- Cài đặt OpenVswitch để thiết lập thêm chế độ card Bridge trong KVM (mặc định KVM chỉ nó NAT)
+- Cài đặt OpenVswitch va thiết lập thêm chế độ card Bridge trong KVM (mặc định KVM chỉ nó NAT)
 
 ```
 apt-get install -y openvswitch-switch openvswitch-datapath-dkms
