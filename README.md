@@ -210,3 +210,5 @@ Tài Liệu Tham Khảo
 [Link trang chủ](https://www.webvirtmgr.net/)
 
 [Link 1](http://www.ainoniwa.net/pelican/2014/0520a.html)
+
+[link moi](http://ubuntukvm.blogspot.com/)
